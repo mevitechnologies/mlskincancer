@@ -6,7 +6,7 @@ gradio_client==0.2.5
 grpcio==1.54.2
 gTTS==2.3.2
 huggingface-hub==0.14.1
-keras==2.10.0
+keras==2.11.0
 matplotlib==3.7.1
 mdit-py-plugins==0.3.3
 mdurl==0.1.2
